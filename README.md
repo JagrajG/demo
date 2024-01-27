@@ -5,3 +5,4 @@
 - git add .: will add all files to status
 - git add filename: will add a specfic file to status
 - git commit -m "title" - m"description": makes files get ready to be added to repo
+- git push origin main: will add the file to the main branch of the repo
