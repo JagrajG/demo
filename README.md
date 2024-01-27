@@ -6,3 +6,5 @@
 - git add filename: will add a specfic file to status
 - git commit -m "title" - m"description": makes files get ready to be added to repo
 - git push origin main: will add the file to the main branch of the repo
+- git remote add origin link: will add code to another repo
+- git pish -u orign master: will push to upstream
